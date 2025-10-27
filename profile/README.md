@@ -1,3 +1,30 @@
-ㄴ
-<img width="1024" height="1024" alt="daily_calendar" src="https://github.com/user-attachments/assets/ec05f20f-257e-4629-b59b-1a72c7f03863" />
-![crayon_frame_1_y_green](https://github.com/user-attachments/assets/9721b83d-5f94-4f6e-9b07-7c7c1cb422ae)
+<img width="3248" height="1159" alt="Frame 5" src="./Frame 5.png" />
+
+# 손글손글
+AI를 이용한 한글 손글씨 학습 어플리케이션입니다.
+---
+🚀 주요 기능
+
+1. 교육학적 단계에 입각한 글씨 연습 단계
+
+
+
+2. LLM API를 이용한 글씨 무한 반복 연습
+
+
+
+3. 예시를 보며 글씨 연습
+
+4. 학습 통계 관리
+
+
+5. 그 외의 다양한 사용자 경험
+
+
+
+🍀 지원 기능
+
+
+
+🧩 활용 시나리오
+
